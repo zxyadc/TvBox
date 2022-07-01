@@ -28,14 +28,12 @@
 {"key": "csp_xpath_虎牙", "name": "虎牙 🎤","type": 3,"api":  "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://zhaxy.coding.net/p/mao/d/XPath/git/raw/master//huya1.json"},
 {"key": "csp_xpath_虎ya", "name": "虎牙 🎮️","type": 3,"api":  "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://zhaxy.coding.net/p/mao/d/XPath/git/raw/master/huya.json"},
 
-{"key":"天堂资源","name":"🇨🇳天堂〔官〕","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"playUrl":"","quickSearch":1,"filterable": 0},
-{"key":"M3U8资源","name":"🇨🇳资源〔官〕","type":1,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable": 0, 
+{"key":"天堂资源","name":"⚡天堂〔官〕","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"playUrl":"","quickSearch":1,"filterable": 0},
+{"key":"M3U8资源","name":"⚡资源〔官〕","type":1,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable": 0, 
 "categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","魔幻片","冒险片","惊悚片","悬疑片","记录片","犯罪片","微电影","其他片","动画片","番剧（B站专用）","国创（B站专用）","电影（B站专用）","电视剧（B站专用）"]},
-{"key":"诺讯资源","name":"🇨🇳诺讯〔官〕","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable": 1,"playUrl":"",
+{"key":"诺讯资源","name":"⚡诺讯〔官〕","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable": 1,"playUrl":"",
 "categories": ["综艺频道","动漫频道","综合频道","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧"]},
-{"key":"木子看剧","name":"🇨🇳木子〔官〕","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable": 0},
-
-
+{"key":"木子看剧","name":"⚡木子〔官〕","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable": 0},
 {"key": "csp_AliPanSou1"  ,"name":"🌥 喵搜〔搜〕","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
  //{"key":"csp_Live","name":"📺设置直播为首页","type":3,"api":"csp_ColaCat","searchable":0,"quickSearch":0,"filterable":0,"ext":"تعيين ,البث المباشر كصفحة رئيسية"},
 //
